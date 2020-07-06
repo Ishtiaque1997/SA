@@ -1,0 +1,97 @@
+.top-container{
+    margin-bottom: 100px;
+    margin-left:50px;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+
+.button{
+    color: white;
+    background-color: black;
+    border: none;
+    height:30px;
+    width:100px;
+    border-radius: 4px;
+}
+.banner{
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 40px;
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.carousel-item{
+    padding:20px;
+}
+.card h4{
+    text-align: center;
+    font-weight: 750;
+}
+.card{
+  border-radius: 10px; 
+  box-shadow: lightgray; 
+}
+.extra {
+    align-items: center;
+}
+.Laptop{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.Categories{
+    margin-top: 50px;
+}
+.Finish h4{
+    text-align: center;
+    text-decoration: underline orangered;
+}
+.but{
+    color: white;
+    background-color: black;
+    border: none;
+    height:30px;
+    width:100px;
+    border-radius: 4px;
+    margin-left: 105px;   
+}
+.extra{
+    margin-bottom: 5px;
+    color:orangered;
+    font-weight: 400;
+    padding-bottom: 50px;
+    font-family: 'Times New Roman', Times, serif
+
+}
+.extras{
+    padding-bottom: 50px;
+    color: yellow;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif
+}
+.card h6{
+    text-align: center;
+}
+
+.card2{
+    margin-bottom: 15px;
+}
+.smartphone{
+    padding-bottom: 20px;
+
+}
+.row{
+    margin-top: 20px;
+}
+.card{
+    box-shadow: gray;
+}
+
+.Finish{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.Finish.row#last{
+    width: 15px;
+
+}
